@@ -1,0 +1,48 @@
+com.stevdza_san.todo.composeApp-lifecycle-viewmodel-ktx-2.6.1-0 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/01bcbfc076d7ef88137e67328f218457/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+com.stevdza_san.todo.composeApp-core-ktx-1.12.0-1 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/02e4f427cf1057e8a142ada82df9e445/transformed/core-ktx-1.12.0/res
+com.stevdza_san.todo.composeApp-core-1.12.0-2 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/res
+com.stevdza_san.todo.composeApp-material3-release-3 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/129e2d98f892e341e09ef774b7f80356/transformed/material3-release/res
+com.stevdza_san.todo.composeApp-ui-graphics-release-4 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/149b7b5920a3ed053a0a4e05c2ab3eb0/transformed/ui-graphics-release/res
+com.stevdza_san.todo.composeApp-material-release-5 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1644d5e9f8fdce38195dc7ea95c2050e/transformed/material-release/res
+com.stevdza_san.todo.composeApp-core-runtime-2.2.0-6 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19815f5a21c06e05d947c651b47f5325/transformed/core-runtime-2.2.0/res
+com.stevdza_san.todo.composeApp-ui-tooling-preview-release-7 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19d65ecbff68fb1a8394761aa740cf2f/transformed/ui-tooling-preview-release/res
+com.stevdza_san.todo.composeApp-lifecycle-viewmodel-savedstate-2.6.1-8 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1a04a1b521be04e3f7147f0953a5e70f/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.stevdza_san.todo.composeApp-savedstate-1.2.1-9 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1fac0b37274b716ed3ca619148d66910/transformed/savedstate-1.2.1/res
+com.stevdza_san.todo.composeApp-lifecycle-runtime-2.6.1-10 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/23cae9dd7f09b3273e1a78ddb1b9f0ec/transformed/lifecycle-runtime-2.6.1/res
+com.stevdza_san.todo.composeApp-material-ripple-release-11 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/28a26e72570c5d5da4c403aee3d000d6/transformed/material-ripple-release/res
+com.stevdza_san.todo.composeApp-runtime-saveable-release-12 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/2f6a379bfdbe06f1275e1f2d784ae592/transformed/runtime-saveable-release/res
+com.stevdza_san.todo.composeApp-ui-geometry-release-13 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/300500bbce84d6c69d88daa95bf551ee/transformed/ui-geometry-release/res
+com.stevdza_san.todo.composeApp-lifecycle-viewmodel-2.6.1-14 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/3627aabb9c5889d975fd89cefee89106/transformed/lifecycle-viewmodel-2.6.1/res
+com.stevdza_san.todo.composeApp-lifecycle-viewmodel-compose-2.6.1-15 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/392d503e89e424ff6d5378dff4d7cdb6/transformed/lifecycle-viewmodel-compose-2.6.1/res
+com.stevdza_san.todo.composeApp-lifecycle-livedata-core-2.6.1-16 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/49e4fe96892945f839fb7670944dedca/transformed/lifecycle-livedata-core-2.6.1/res
+com.stevdza_san.todo.composeApp-ui-util-release-17 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/52ba43f4acdae604de70f2d9661f8f89/transformed/ui-util-release/res
+com.stevdza_san.todo.composeApp-activity-1.8.2-18 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/54e48b77e736078d140ccaf642e2e536/transformed/activity-1.8.2/res
+com.stevdza_san.todo.composeApp-ui-tooling-data-release-19 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/64752cbc14439739ed513bacfc3b1573/transformed/ui-tooling-data-release/res
+com.stevdza_san.todo.composeApp-annotation-experimental-1.4.0-20 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/6f55e5a74472db779c4ee432a51cd098/transformed/annotation-experimental-1.4.0/res
+com.stevdza_san.todo.composeApp-emoji2-1.3.0-21 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/res
+com.stevdza_san.todo.composeApp-runtime-release-22 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/7fde79045a2af616ffea8437e30f756b/transformed/runtime-release/res
+com.stevdza_san.todo.composeApp-material-icons-core-release-23 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/88e7e2d94f46646ff8b504a83c3209fe/transformed/material-icons-core-release/res
+com.stevdza_san.todo.composeApp-foundation-layout-release-24 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/89a2f357a2788daac4f92e30466d58e5/transformed/foundation-layout-release/res
+com.stevdza_san.todo.composeApp-foundation-release-25 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8a25ec737d5f1cf65794f2e564050727/transformed/foundation-release/res
+com.stevdza_san.todo.composeApp-activity-compose-1.8.2-26 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8c69daf3d0c2e64903d3f3203c278c1b/transformed/activity-compose-1.8.2/res
+com.stevdza_san.todo.composeApp-lifecycle-process-2.6.1-27 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/res
+com.stevdza_san.todo.composeApp-lifecycle-runtime-ktx-2.6.1-28 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a3ccbea15d456d1cc79a2e3c9a0579b3/transformed/lifecycle-runtime-ktx-2.6.1/res
+com.stevdza_san.todo.composeApp-animation-core-release-29 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a50e2baa035b0cd6b07891321f05f461/transformed/animation-core-release/res
+com.stevdza_san.todo.composeApp-ui-release-30 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a7f739245e7b63cd6b00b2127f5fb6cf/transformed/ui-release/res
+com.stevdza_san.todo.composeApp-customview-poolingcontainer-1.0.0-31 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/acfc9caee821adca980e1f7a6d73595c/transformed/customview-poolingcontainer-1.0.0/res
+com.stevdza_san.todo.composeApp-profileinstaller-1.3.0-32 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/res
+com.stevdza_san.todo.composeApp-ui-unit-release-33 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/afee9823d1ae2369087d7318a1541881/transformed/ui-unit-release/res
+com.stevdza_san.todo.composeApp-animation-release-34 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/c94458b468ae9328aa9ea86129536ed1/transformed/animation-release/res
+com.stevdza_san.todo.composeApp-ui-text-release-35 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cc45994354398c2e0d53142fa297c8fc/transformed/ui-text-release/res
+com.stevdza_san.todo.composeApp-savedstate-ktx-1.2.1-36 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cdfcf39aaebc85bec0e758e99e3d97c3/transformed/savedstate-ktx-1.2.1/res
+com.stevdza_san.todo.composeApp-startup-runtime-1.1.1-37 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/res
+com.stevdza_san.todo.composeApp-activity-ktx-1.8.2-38 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d4b2b8a833f3994676d1be5985670422/transformed/activity-ktx-1.8.2/res
+com.stevdza_san.todo.composeApp-ui-tooling-release-39 /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/res
+com.stevdza_san.todo.composeApp-pngs-40 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/build/generated/res/pngs/debug
+com.stevdza_san.todo.composeApp-resValues-41 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/build/generated/res/resValues/debug
+com.stevdza_san.todo.composeApp-packageDebugResources-42 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.stevdza_san.todo.composeApp-packageDebugResources-43 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.stevdza_san.todo.composeApp-merged_res-44 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/build/intermediates/merged_res/debug
+com.stevdza_san.todo.composeApp-androidMain-45 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/res
+com.stevdza_san.todo.composeApp-debug-46 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/debug/res
+com.stevdza_san.todo.composeApp-main-47 /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/main/res

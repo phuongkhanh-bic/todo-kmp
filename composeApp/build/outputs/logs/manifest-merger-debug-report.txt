@@ -1,0 +1,346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19d65ecbff68fb1a8394761aa740cf2f/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/54e48b77e736078d140ccaf642e2e536/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d4b2b8a833f3994676d1be5985670422/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/6460c01c8260cbc27842622c0a77df60/transformed/voyager-koin-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8599fc45b4fad0f65acc6e0a50f7bcd3/transformed/voyager-screenmodel-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/f5754d4e64db8bce66e8f0dd6db6ae51/transformed/voyager-transitions-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/b96419bbcc23e64beeb9e854ca83413f/transformed/voyager-navigator-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/129e2d98f892e341e09ef774b7f80356/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/9eff5971807c889adb70067e5dd4f398/transformed/voyager-core-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8c69daf3d0c2e64903d3f3203c278c1b/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1644d5e9f8fdce38195dc7ea95c2050e/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/88e7e2d94f46646ff8b504a83c3209fe/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/28a26e72570c5d5da4c403aee3d000d6/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/c32a96c5271f20cc20af0d791c5bec32/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8a25ec737d5f1cf65794f2e564050727/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/89a2f357a2788daac4f92e30466d58e5/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a50e2baa035b0cd6b07891321f05f461/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/c94458b468ae9328aa9ea86129536ed1/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/afee9823d1ae2369087d7318a1541881/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/300500bbce84d6c69d88daa95bf551ee/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/149b7b5920a3ed053a0a4e05c2ab3eb0/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/52ba43f4acdae604de70f2d9661f8f89/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cc45994354398c2e0d53142fa297c8fc/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/64752cbc14439739ed513bacfc3b1573/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cdfcf39aaebc85bec0e758e99e3d97c3/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/46d78c84335c5f46885bca464586ba82/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/acfc9caee821adca980e1f7a6d73595c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/02e4f427cf1057e8a142ada82df9e445/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/49e4fe96892945f839fb7670944dedca/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/23cae9dd7f09b3273e1a78ddb1b9f0ec/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1a04a1b521be04e3f7147f0953a5e70f/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1fac0b37274b716ed3ca619148d66910/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a3ccbea15d456d1cc79a2e3c9a0579b3/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/3627aabb9c5889d975fd89cefee89106/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/01bcbfc076d7ef88137e67328f218457/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/392d503e89e424ff6d5378dff4d7cdb6/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a7f739245e7b63cd6b00b2127f5fb6cf/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/15bc3a22e5ad7d8bc262ce3bebc7c33f/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/dd1cf00802633ece196658fb9ac46708/transformed/library-base-release/AndroidManifest.xml:18:1-26:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/2f6a379bfdbe06f1275e1f2d784ae592/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/7fde79045a2af616ffea8437e30f756b/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:18:1-38:12
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/5b109e3c4a69310be481c81cafc54dce/transformed/kbson-debug/AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/6f55e5a74472db779c4ee432a51cd098/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8fd1b43d66af5b6bed3ba5e94df74632/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/9e4616bbb6f04b35c4e511361247e73b/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19815f5a21c06e05d947c651b47f5325/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1bf5fe25fdce3022f3b787704e1b02da/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/b6b1243cba4fdb5738ea6aa7b22e25bd/transformed/relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-22:19
+INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-22:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:26:5-36:19
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:26:5-36:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8fd1b43d66af5b6bed3ba5e94df74632/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8fd1b43d66af5b6bed3ba5e94df74632/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+activity#com.stevdza_san.todo.MainActivity
+ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:11:9-21:20
+	android:windowSoftInputMode
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:12:13-55
+	android:exported
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:13:13-36
+	android:configChanges
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:14:13-225
+	android:name
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19d65ecbff68fb1a8394761aa740cf2f/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19d65ecbff68fb1a8394761aa740cf2f/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/54e48b77e736078d140ccaf642e2e536/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/54e48b77e736078d140ccaf642e2e536/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d4b2b8a833f3994676d1be5985670422/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d4b2b8a833f3994676d1be5985670422/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/6460c01c8260cbc27842622c0a77df60/transformed/voyager-koin-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/6460c01c8260cbc27842622c0a77df60/transformed/voyager-koin-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8599fc45b4fad0f65acc6e0a50f7bcd3/transformed/voyager-screenmodel-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8599fc45b4fad0f65acc6e0a50f7bcd3/transformed/voyager-screenmodel-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/f5754d4e64db8bce66e8f0dd6db6ae51/transformed/voyager-transitions-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/f5754d4e64db8bce66e8f0dd6db6ae51/transformed/voyager-transitions-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/b96419bbcc23e64beeb9e854ca83413f/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/b96419bbcc23e64beeb9e854ca83413f/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/129e2d98f892e341e09ef774b7f80356/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/129e2d98f892e341e09ef774b7f80356/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/9eff5971807c889adb70067e5dd4f398/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/9eff5971807c889adb70067e5dd4f398/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8c69daf3d0c2e64903d3f3203c278c1b/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8c69daf3d0c2e64903d3f3203c278c1b/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1644d5e9f8fdce38195dc7ea95c2050e/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1644d5e9f8fdce38195dc7ea95c2050e/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/88e7e2d94f46646ff8b504a83c3209fe/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/88e7e2d94f46646ff8b504a83c3209fe/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/28a26e72570c5d5da4c403aee3d000d6/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/28a26e72570c5d5da4c403aee3d000d6/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/c32a96c5271f20cc20af0d791c5bec32/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/c32a96c5271f20cc20af0d791c5bec32/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8a25ec737d5f1cf65794f2e564050727/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8a25ec737d5f1cf65794f2e564050727/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/89a2f357a2788daac4f92e30466d58e5/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/89a2f357a2788daac4f92e30466d58e5/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a50e2baa035b0cd6b07891321f05f461/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a50e2baa035b0cd6b07891321f05f461/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/c94458b468ae9328aa9ea86129536ed1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/c94458b468ae9328aa9ea86129536ed1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/afee9823d1ae2369087d7318a1541881/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/afee9823d1ae2369087d7318a1541881/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/300500bbce84d6c69d88daa95bf551ee/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/300500bbce84d6c69d88daa95bf551ee/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/149b7b5920a3ed053a0a4e05c2ab3eb0/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/149b7b5920a3ed053a0a4e05c2ab3eb0/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/52ba43f4acdae604de70f2d9661f8f89/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/52ba43f4acdae604de70f2d9661f8f89/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cc45994354398c2e0d53142fa297c8fc/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cc45994354398c2e0d53142fa297c8fc/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/64752cbc14439739ed513bacfc3b1573/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/64752cbc14439739ed513bacfc3b1573/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cdfcf39aaebc85bec0e758e99e3d97c3/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/cdfcf39aaebc85bec0e758e99e3d97c3/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/46d78c84335c5f46885bca464586ba82/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/46d78c84335c5f46885bca464586ba82/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/acfc9caee821adca980e1f7a6d73595c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/acfc9caee821adca980e1f7a6d73595c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/02e4f427cf1057e8a142ada82df9e445/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/02e4f427cf1057e8a142ada82df9e445/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/49e4fe96892945f839fb7670944dedca/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/49e4fe96892945f839fb7670944dedca/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/23cae9dd7f09b3273e1a78ddb1b9f0ec/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/23cae9dd7f09b3273e1a78ddb1b9f0ec/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1a04a1b521be04e3f7147f0953a5e70f/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1a04a1b521be04e3f7147f0953a5e70f/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1fac0b37274b716ed3ca619148d66910/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1fac0b37274b716ed3ca619148d66910/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a3ccbea15d456d1cc79a2e3c9a0579b3/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a3ccbea15d456d1cc79a2e3c9a0579b3/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/3627aabb9c5889d975fd89cefee89106/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/3627aabb9c5889d975fd89cefee89106/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/01bcbfc076d7ef88137e67328f218457/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/01bcbfc076d7ef88137e67328f218457/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/392d503e89e424ff6d5378dff4d7cdb6/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/392d503e89e424ff6d5378dff4d7cdb6/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a7f739245e7b63cd6b00b2127f5fb6cf/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a7f739245e7b63cd6b00b2127f5fb6cf/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/15bc3a22e5ad7d8bc262ce3bebc7c33f/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/15bc3a22e5ad7d8bc262ce3bebc7c33f/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/dd1cf00802633ece196658fb9ac46708/transformed/library-base-release/AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/dd1cf00802633ece196658fb9ac46708/transformed/library-base-release/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/2f6a379bfdbe06f1275e1f2d784ae592/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/2f6a379bfdbe06f1275e1f2d784ae592/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/7fde79045a2af616ffea8437e30f756b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/7fde79045a2af616ffea8437e30f756b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:22:5-24:41
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/5b109e3c4a69310be481c81cafc54dce/transformed/kbson-debug/AndroidManifest.xml:23:5-25:41
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/5b109e3c4a69310be481c81cafc54dce/transformed/kbson-debug/AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/6f55e5a74472db779c4ee432a51cd098/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/6f55e5a74472db779c4ee432a51cd098/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8fd1b43d66af5b6bed3ba5e94df74632/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/8fd1b43d66af5b6bed3ba5e94df74632/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/9e4616bbb6f04b35c4e511361247e73b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/9e4616bbb6f04b35c4e511361247e73b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19815f5a21c06e05d947c651b47f5325/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/19815f5a21c06e05d947c651b47f5325/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1bf5fe25fdce3022f3b787704e1b02da/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1bf5fe25fdce3022f3b787704e1b02da/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/b6b1243cba4fdb5738ea6aa7b22e25bd/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/b6b1243cba4fdb5738ea6aa7b22e25bd/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/evol-phuongkhanh/Khanh/Learning Code/ToDo-App-Compose-Multiplatform/composeApp/src/androidMain/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:27:9-35:20
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:27:9-35:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/d1b4112f0373c5e6229d54d566059ade/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/767f55371551fd6edd3d09b436ad0b5d/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.stevdza_san.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.stevdza_san.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/1237103c9ef6f5e9e786a08c2c19873d/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/a1ebe621baaee6c63a15cfcff2ef4e45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/ef9a5f504db8a5ea44c32919b84457e6/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+meta-data#io.realm.kotlin.internal.RealmInitializer
+ADDED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:32:13-34:52
+	android:value
+		ADDED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:34:17-49
+	android:name
+		ADDED from [io.realm.kotlin:cinterop-android:1.13.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/e1d51fe6d4cadaa6eae553a19f531e3f/transformed/cinterop-release/AndroidManifest.xml:33:17-73
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/evol-phuongkhanh/.gradle/caches/transforms-3/af3501c231e902cff92cb290c71ffbab/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
